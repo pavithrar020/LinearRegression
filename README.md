@@ -23,8 +23,3 @@ Modify the code for experimentation with different datasets or parameters.
 Replace the dataset with your own by updating the data loading cell.  
 Adjust hyperparameters or evaluation metrics as needed.  
 Extend the notebook to include advanced regression techniques or feature engineering.
-
-## Future Enhancements
-Add comparisons with Ridge, Lasso, or Polynomial Regression.  
-Incorporate cross-validation for robust evaluation.  
-Implement feature selection for model optimization.
